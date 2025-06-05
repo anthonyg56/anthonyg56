@@ -12,10 +12,10 @@ I'm a Full-Stack developer based in Indianapolis, IN who specializes in TypeScri
 
 ### 🚀 Featured Projects
 
-*   **[AuNaturelCompany (WIP)](https://au-naturel-company.vercel.app/)** - A premier salon in Indianapolis, IN, specializing in comprehensive dreadlock (loc) services and natural hair care. Led by the expert Shyn the Barbertician. (TypeScript)
-*   **[RollUp-Ai (WIP)](https://rollup-ai.fly.dev)** - Transform your videos into engaging content through Ai magic. (TypeScript)
-*   **[HyperSets](https://hypersets-shadcn.vercel.app/)** - An online platform for the HyperX community to store, discover, and illuminate their pc's peripheral setup. (TypeScript, 3 Stars, 2 Forks)
-*   **[Tribe](https://github.com/anthonyg56/Tribe)** - A social media platform for exclusive social groups centered around a shared passion. (TypeScript)
+*   **[AuNaturelCompany (WIP)](https://au-naturel-company.vercel.app/)** - 2025 - A premier salon in Indianapolis, IN, specializing in comprehensive dreadlock (loc) services and natural hair care. Led by the expert Shyn the Barbertician. (TypeScript)
+*   **[RollUp-Ai (WIP)](https://rollup-ai.fly.dev)** - 2025 - Transform your videos into engaging content through Ai magic. (TypeScript)
+*   **[HyperSets](https://hypersets-shadcn.vercel.app/)** - 2024 - An online platform for the HyperX community to store, discover, and illuminate their pc's peripheral setup. (TypeScript, 3 Stars, 2 Forks)
+*   **[Tribe](https://github.com/anthonyg56/Tribe)** - 2021 - A social media platform for exclusive social groups centered around a shared passion. (TypeScript)
 
 ### 🛠️ Technologies & Tools I Use
 
