@@ -18,6 +18,7 @@ I'm a Full-Stack developer based in Indianapolis, IN who specializes in TypeScri
 ### 🛠️ Technologies & Tools I Use
 
 - React
+- ShadCN
 - Next.js
 - TypeScript
 - Postgres
