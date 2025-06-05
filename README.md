@@ -10,9 +10,24 @@ I'm a Full-Stack developer based in Indianapolis, IN who specializes in TypeScri
   <br />
 </div>
 
-#### 🚀 &nbsp;&nbsp;Featured Projects
+### 🛠️ Technologies & Tools I Use
 
-* [HyperSets](https://github.com/anthonyg56/HyperSets) - An online platform for the HyperX community to store, discover, and illuminate their pc's peripheral setup.
-* [Serverless-Template](https://github.com/anthonyg56/Serverless-Template) - A Template for serverless functionality using Next.Js v9, Typescript, and the native MongoDB driver.
-* [nextjs-auth-template](https://github.com/anthonyg56/nextjs-auth-template) - A lightweight template for Next.js 14.
-* [Tribe](https://github.com/anthonyg56/Tribe) - A social media platform for exclusive social groups centered around a shared passion.
+- React
+- Next.js
+- TypeScript
+- Postgres
+- Supabase
+- TailwindCSS
+- TanStack (Query, Router, Table, etc.)
+- Hono
+- Bun
+- Node.js
+- Express
+- ... and more!
+
+### 🚀 Featured Projects
+
+*   **[AuNaturelCompany (WIP)](https://github.com/anthonyg56/AuNaturelCompany)** - A premier salon in Indianapolis, IN, specializing in comprehensive dreadlock (loc) services and natural hair care. Led by the expert Shyn the Barbertician. (TypeScript)
+*   **[RollUp-Ai (WIP)](https://github.com/anthonyg56/RollUp-Ai)** - Transform your videos into engaging content through Ai magic. (TypeScript)
+*   **[HyperSets](https://github.com/anthonyg56/HyperSets)** - An online platform for the HyperX community to store, discover, and illuminate their pc's peripheral setup. (TypeScript, 3 Stars, 2 Forks)
+*   **[Tribe](https://github.com/anthonyg56/Tribe)** - A social media platform for exclusive social groups centered around a shared passion. (TypeScript)
