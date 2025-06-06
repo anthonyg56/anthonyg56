@@ -12,6 +12,7 @@ I'm a Full-Stack developer based in Indianapolis, IN who specializes in TypeScri
 
 ### 🚀 Featured Projects Live Demos
 
+*   **[Rivrb](https://Rivrb.com)** - Rivrb is an AI & human-powered automated digital research. (TypeScript)
 *   **[AuNaturelCompany (WIP)](https://au-naturel-company.vercel.app/)** - A premier salon in Indianapolis, IN, specializing in comprehensive dreadlock (loc) services and natural hair care. (TypeScript)
 *   **[RollUp-Ai (WIP)](https://rollup-ai.fly.dev)** - Transform your videos into engaging content through Ai magic. (TypeScript)
 
